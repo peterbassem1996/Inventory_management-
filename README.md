@@ -21,8 +21,8 @@ The outbound from a warehouse happens through sales to customers.
 1. Project Design:
   1. ERD
 
-![](RackMultipart20200504-4-12bmfoh_html_8adac80a6f668b84.png)
+![](https://github.com/peterbassem1996/Inventory_management-/blob/master/DB%20Project.png)
 
   1. Dependency diagrams
 
-![](https://github.com/peterbassem1996/Inventory_management-/blob/master/DB%20Project.png)
+![](https://github.com/peterbassem1996/Inventory_management-/blob/master/Dependency%20diagrams.png)
