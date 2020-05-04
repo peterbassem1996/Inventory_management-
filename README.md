@@ -1,11 +1,3 @@
-# Peter B Dawoud
-
-# CSC239-01
-
-# Spring 2020
-
-# Database System
-
 # Inventory Management System
 
 1. Project Identification:
