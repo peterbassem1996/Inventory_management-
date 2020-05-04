@@ -25,4 +25,4 @@ The outbound from a warehouse happens through sales to customers.
 
   1. Dependency diagrams
 
-![](RackMultipart20200504-4-12bmfoh_html_644e45884ea975e8.png)
+![](Dependency diagrams.png)
